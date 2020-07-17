@@ -22,7 +22,7 @@ console.log( "Total woods-", result2);
 
 // brickCalculator :
 
-// For  Nineteens Floors;
+// For example:  Nineteens Floors;
 
 function brickCalculator(tenFloors, fifteenFeets, nineFloors, twelveFeets) {
     var everyFloor1 = fifteenFeets * 1000 ;
